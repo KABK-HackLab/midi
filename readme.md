@@ -2,13 +2,13 @@
 
 prerequisites:
 
-Midi Presentation
-https://github.com/KABK-HackLab/Introduction_to_MIDI.pdf
+Midi Presentation<br>
+https://github.com/KABK-HackLab/midi/Introduction_to_MIDI.pdf
 
-basic hardware setup and introduction to microcontrollers:
+basic hardware setup and introduction to microcontrollers:<br>
 https://github.com/KABK-HackLab/microcontroller-intro
 
-The adafruit circuitpython midi library:
+The adafruit circuitpython midi library:<br>
 https://github.com/adafruit/Adafruit_CircuitPython_MIDI/tree/2bc555485772743b70f620fe939048020924a605
 
 ## midi compatible software
