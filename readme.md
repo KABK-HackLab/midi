@@ -3,7 +3,7 @@
 prerequisites:
 
 Midi Presentation
-
+https://github.com/KABK-HackLab/Introduction_to_MIDI.pdf
 
 basic hardware setup and introduction to microcontrollers:
 https://github.com/KABK-HackLab/microcontroller-intro
