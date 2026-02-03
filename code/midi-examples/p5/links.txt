@@ -1,0 +1,5 @@
+the examples to work with our midi controller
+https://editor.p5js.org/RobBothof/collections/aCYiyIHQ5
+
+workibng with video:
+https://creative-coding.decontextualize.com/video/

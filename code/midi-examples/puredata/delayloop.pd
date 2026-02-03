@@ -1,0 +1,12 @@
+#N canvas 278 302 1085 544 12;
+#X obj 371 42 adc~;
+#X obj 642 321 dac~;
+#X obj 404 354 delwrite~ ritasdelay 50000;
+#X obj 455 97 delread~ ritasdelay 2500;
+#X obj 477 168 *~ 0.5;
+#X connect 0 0 2 0;
+#X connect 0 1 2 0;
+#X connect 3 0 4 0;
+#X connect 4 0 1 0;
+#X connect 4 0 1 1;
+#X connect 4 0 2 0;
