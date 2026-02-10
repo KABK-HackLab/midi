@@ -9,7 +9,7 @@ basic hardware setup and introduction to microcontrollers:<br>
 https://github.com/KABK-HackLab/microcontroller-intro
 
 The adafruit circuitpython midi library:<br>
-https://github.com/adafruit/Adafruit_CircuitPython_MIDI/tree/2bc555485772743b70f620fe939048020924a605
+https://github.com/adafruit/Adafruit_CircuitPython_MIDI/
 
 ## midi compatible software
 
